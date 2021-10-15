@@ -1,0 +1,12 @@
+body {
+  background-color: #f5ecb8;
+  color: #000000;
+}
+.gallery {
+}
+.gallery__image {
+  margin-top: 15px;
+}
+a {
+  color: #502d17;
+}
